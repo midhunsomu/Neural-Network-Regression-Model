@@ -93,7 +93,7 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ### New Sample Data Prediction
 
-![WhatsApp Image 2025-03-23 at 19 34 23_eb078507](https://github.com/user-attachments/assets/d0c78c5b-74d1-48c5-9e32-6f93a1f73bac)
+![image](https://github.com/user-attachments/assets/72944024-f532-42d6-b9e7-842d24a7b1ff)
 
 ## RESULT
 
